@@ -1,14 +1,18 @@
-# Hi, I'm Stepan Urivko 👋
+<div align="center">
+  <h1> Hi, I'm <a href="https://github.com/ssurivko20">Stepan Urivko</a> 👋 </h1>
+</div>
 
-<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif">
+<div align="right">
+<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="400px">
+</div>
 
 <hr>
 
 ### My personal stuffs
 
 <ul>
-  <li>I'm learning CSS, HTML, C++</li>
-  <li>My favourite programming language is Python</li>
+  <li>:desktop_computer: I'm learning CSS, HTML, C++</li>
+  <li>:snake: My favourite programming language is Python</li>
 </ul>
 
 <hr>
